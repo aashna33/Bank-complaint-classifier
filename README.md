@@ -27,20 +27,7 @@ The dataset used is from the Consumer Financial Protection Bureau (CFPB)
 .
 Each entry contains complaint details such as product, issue, and free-text narrative.
 
-Columns of interest:
-
-Product
-
-Issue
-
-Consumer complaint narrative
-
-Company
-
-State
-
-Complaint ID
-
+Columns of interest: Product, Issue, Consumer complaint narrative, CompanyState, Complaint ID
 
 🚀 Training and Evaluation
 
