@@ -7,6 +7,8 @@ Fine-tuned FinBERT model for classifying financial customer complaints across mu
 
 This project fine-tunes the FinBERT model (ProsusAI/finbert) on the Consumer Financial Protection Bureau (CFPB) complaints dataset.
 The goal is to classify complaint narratives into financial product categories (e.g., Mortgage, Credit Card, Debt Collection, etc.), enabling institutions to detect and analyze complaint trends efficiently.
+
+
 Link of the dataset: https://www.consumerfinance.gov/data-research/consumer-complaints/
 
 🧩 Key Features
